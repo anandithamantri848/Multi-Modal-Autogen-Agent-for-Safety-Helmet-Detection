@@ -2,3 +2,7 @@
 .venv
 __pycache__
 *.pyc
+runs/   
+models/
+traffic.jpg
+traffic1.jpg
